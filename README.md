@@ -1,5 +1,4 @@
-# Analisis_Datos_BiciMad
-Videojuego Multijugador
+# Videojuego_Multijugador
 
 Los archivos de Python salaV5.py y playerV5.py consisten en un videojuego multijugador distribuido hecho con las librerías pygame y Multiprocessing. Es importante que las imágenes que se adjuntan estén en la misma carpeta que los archivos Python para poder ejecutar los perogramas.
 
