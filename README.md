@@ -1,5 +1,5 @@
 # Analisis_Datos_BiciMad
-Análisis datos usuarios del servicio de alquiler de bicicletas públicas en Madrid.
+Videojuego Multijugador
 
 Los archivos de Python salaV5.py y playerV5.py consisten en un videojuego multijugador distribuido hecho con las librerías pygame y Multiprocessing. Es importante que las imágenes que se adjuntan estén en la misma carpeta que los archivos Python para poder ejecutar los perogramas.
 
