@@ -21,3 +21,8 @@ playerV5.py se ejecuta en la terminal del jugador y toma como argumento la direc
 playerv1.py y salaV1.py son una primera versión del juego sin colisiones de las balas. Tampoco está implementada la eliminación de una bala si sale de rango por lo que con esta versión podría dar problemas de memoria si se dispara.
 
 Las imágenes PNG son para el fondo de pantalla, el proyectil y la nave del jugador.
+
+AUTORES:
+
+- Ignacio Fernández Sánchez-Pascuala.
+- Javier Castellano Soria.
